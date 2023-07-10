@@ -16,6 +16,7 @@
 https://github.com/Yujun-Shi/DragDiffusion
 
 ## Page
+https://yujun-shi.github.io/projects/dragdiffusion.html
 
 ## Paper
 https://arxiv.org/abs/2306.14435
