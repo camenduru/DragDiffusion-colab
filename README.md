@@ -9,6 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragDiffusion-colab/blob/main/DragDiffusion_colab.ipynb) | DragDiffusion_colab (🦒 Colab Pro)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragDiffusion-colab/blob/main/DragDiffusion_train_colab.ipynb) | DragDiffusion_train_colab (🦒 Colab Free)
 
 ## Tutorial
 
