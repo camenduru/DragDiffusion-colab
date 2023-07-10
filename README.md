@@ -23,3 +23,4 @@ https://yujun-shi.github.io/projects/dragdiffusion.html
 https://arxiv.org/abs/2306.14435
 
 ## Output
+![Screenshot 2023-07-10 095249](https://github.com/camenduru/DragDiffusion-colab/assets/54370274/a4ca147a-3fe6-4eee-8192-05ed14890843)
